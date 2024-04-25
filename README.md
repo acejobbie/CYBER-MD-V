@@ -36,7 +36,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
  <a href="tiktok.com/@_cyber_hr_king/"><img src="https://telegra.ph/file/297c5ebf88e2793b0f256.jpg" width=80 height=80></a>   
 
-## **`CYBER-DEXTER-AND-KING LOKU RAVI DARK-EWING-MD BOT OWNERS,`**
+## **`CYBER-DEXTER-OWNERS,`**
 
 
 ## Special Thanks to
