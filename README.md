@@ -1,41 +1,4 @@
-commands to upload the bot to github using termux:
-
-
-cd /sdcard
-
-cd xbug5(name of bot folder)
-
-git config  --global user.email "your github email"
-
-git config --global user.name "your github username"
-
-git init
-
-git add *
-
-git commit -m  "write anything"
-
-git remote add origin <link of ur github repository>
-
-git push origin master
-
-Username : your username 
-
-Password : your password
-
-
-
-
-
-
-
-
-
-
-
-
-Session generator: https://replit.com/@DGXeon/Xeon-PairCode?v=1
-
+Session generator: https://replit.com/@sinhala677/CYBER-BUG?v=1
 
 Heroku buildpacks:
 
