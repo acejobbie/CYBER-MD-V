@@ -22,14 +22,14 @@ global.botname = '𒋨🏴‍☠️⃝𝘼𝘾𝙀☠️𝘽𝙊𝙏⃝𒋨🉑'
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ𖤍🔥\n\nContact: +9254726856795'
+global.author = '🏴‍☠️⃝🅐ϲԑ 𝚔𝖎𝐫қ𖤍🔥\n\nContact: +254726856795'
 
 //console view/theme
 global.themeemoji = '🉑'
 global.wm = "Ace Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20'
+global.link = 'https://chat.whatsapp.com/LMR6Zi4AR962Uh2hc6t1Fj'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
